@@ -72,5 +72,9 @@ export const fetchContributionDays = async (login, createdAt) => {
   const firstYear = new Date(createdAt).getUTCFullYear();
   const years = Array.from({length: now.getUTCFullYear() - firstYear + 1}, (_, index) => firstYear + index);
   const daysByYear = await Promise.all(years.map((year) => fetchYearDays(login, year, now)));
-  return daysByYear.flat().map((day) => ({date: day.date, count: day.contributionCount}));
+  const firstDay = createdAt.slice(0, 10);
+  return daysByYear
+    .flat()
+    .filter((day) => day.date >= firstDay)
+    .map((day) => ({date: day.date, count: day.contributionCount}));
 };
