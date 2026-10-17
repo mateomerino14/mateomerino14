@@ -4,6 +4,7 @@ import {escapeXml, fadeDelay, renderCard} from './svg.js';
 const WIDTH = 350;
 const TOP_LANGUAGES = 5;
 const OTHERS_LABEL = 'Otros';
+const EXCLUDED_LANGUAGES = new Set(['TeX']);
 const BAR = {y: 55, height: 9, gap: 2};
 const LEGEND = {firstY: 102, rowHeight: 31, columnWidth: 150, valueInset: 10};
 
@@ -11,6 +12,7 @@ export const summarizeLanguages = (user) => {
   const sizes = new Map();
   user.repositories.nodes
     .flatMap((repo) => repo.languages.edges)
+    .filter(({node}) => !EXCLUDED_LANGUAGES.has(node.name))
     .forEach(({size, node}) => sizes.set(node.name, (sizes.get(node.name) ?? 0) + size));
 
   const total = [...sizes.values()].reduce((sum, size) => sum + size, 0);
