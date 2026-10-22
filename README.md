@@ -7,15 +7,16 @@
 Construyo aplicaciones web y convierto datos en decisiones.
 
 - Estudiante de Ingeniería Informática en la **UMSS** · **Medalla de Oro 2026** al mejor promedio de la carrera
-- Asistente de cátedra en **Introducción a la Programación** y **Teoría de Grafos**
+- Fui asistente de cátedra de **Introducción a la Programación** y **Teoría de Grafos** (2024–2025)
 - Hice mi pasantía en **MAXAM FANEXA** y desarrollo sistemas full stack como freelance para negocios locales
 - Me muevo entre el desarrollo web (React, Node.js, PostgreSQL) y el análisis de datos (Python, SQL, Power BI)
+- Completé el curso **CCNA: Introducción a las Redes** de Cisco Networking Academy y tengo más de 1.500 horas de formación certificada en desarrollo, datos e IA
 
 ### Stack
 
 <p align="center">
   <a href="https://mateomerino14.github.io/PORTAFOLIO/#stack">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,r,html,css,react,angular,tailwind,electron,nodejs,express,nestjs,postgres,supabase,mysql,sqlite,mongodb,git,githubactions,docker,vitest,postman,figma&theme=dark&perline=9" alt="Lenguajes y herramientas"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,r,html,css,react,astro,angular,tailwind,bootstrap,electron,qt,nodejs,express,nestjs,postgres,supabase,firebase,mysql,sqlite,mongodb,git,githubactions,docker,vitest,postman,figma,threejs,blender,arduino&theme=dark&perline=9" alt="Lenguajes y herramientas"/>
   </a>
 </p>
 
@@ -59,10 +60,10 @@ Construyo aplicaciones web y convierto datos en decisiones.
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>Gemini</code>
     </td>
     <td width="50%" valign="top">
-      <strong>Sistema de Gestión para Café-Bar</strong><br/>
+      <strong>Sistema Cafebar</strong><br/>
       <sub>Cliente freelance · Entregado</sub><br/><br/>
-      Ventas, mesas, inventario, cocina y empleados. Empezó como app de escritorio y lo migré a la web.<br/><br/>
-      <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Electron</code>
+      Ventas por mesa, cocina, inventario y reportes para un café temático. Tres versiones: escritorio en Python, web con Supabase y hoy escritorio con Electron.<br/><br/>
+      <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Electron</code> <code>PyQt</code>
     </td>
   </tr>
   <tr>
@@ -73,10 +74,24 @@ Construyo aplicaciones web y convierto datos en decisiones.
       <code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Vitest</code>
     </td>
     <td width="50%" valign="top">
+      <strong><a href="https://github.com/ProcesosAgilesUMSS/sansistore">SansiStore</a></strong><br/>
+      <sub>Procesos Ágiles · Proyecto en equipo</sub><br/><br/>
+      Tienda en línea de la comunidad UMSS hecha por varios equipos con Scrum. Aporté el carrito, el filtro por categorías y el aviso de stock por correo.<br/><br/>
+      <code>Astro</code> <code>React</code> <code>TypeScript</code> <code>Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <strong>Prototipo HTR para código manuscrito</strong><br/>
       <sub>Proyecto de Grado</sub><br/><br/>
       Transcribe el código Java y Python escrito a mano en exámenes con herramientas de reconocimiento de escritura.<br/><br/>
       <code>Python</code> <code>TrOCR</code> <code>PaddleOCR</code> <code>Tesseract</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/mateomerino14/CAPILLA-BLENDER">Capilla con bibliotecaria en 3D</a></strong><br/>
+      <sub>Universidad · Modelado 3D</sub><br/><br/>
+      Escena modelada en Blender, con renders en Cycles y un visor en vivo en mi portafolio.<br/><br/>
+      <code>Blender</code> <code>Three.js</code>
     </td>
   </tr>
 </table>
