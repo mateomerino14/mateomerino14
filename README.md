@@ -16,7 +16,7 @@ Construyo aplicaciones web y convierto datos en decisiones.
 
 <p align="center">
   <a href="https://mateomerino14.github.io/PORTAFOLIO/#stack">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,r,html,css,react,astro,angular,tailwind,bootstrap,electron,qt,nodejs,express,nestjs,postgres,supabase,firebase,mysql,sqlite,mongodb,git,githubactions,docker,vitest,postman,figma,threejs,blender,arduino&theme=dark&perline=9" alt="Lenguajes y herramientas"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,r,html,css,react,astro,angular,tailwind,electron,qt,nodejs,express,nestjs,postgres,supabase,firebase,mysql,sqlite,mongodb,git,githubactions,docker,vitest,postman,figma,threejs,blender&theme=dark&perline=9" alt="Lenguajes y herramientas"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Construyo aplicaciones web y convierto datos en decisiones.
   <tr>
     <td width="50%" valign="top">
       <strong>Sistema de Control de Viáticos</strong><br/>
-      <sub>Pasantía · MAXAM</sub><br/><br/>
+      <sub>Pasantía · MAXAM FANEXA</sub><br/><br/>
       Viajes corporativos y rendición de gastos por rol, con extracción de comprobantes por IA y reportes en PDF y Excel.<br/><br/>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>Gemini</code>
     </td>
