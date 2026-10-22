@@ -10,7 +10,7 @@ Construyo aplicaciones web y convierto datos en decisiones.
 - Fui asistente de cátedra de **Introducción a la Programación** y **Teoría de Grafos** (2024–2025)
 - Hice mi pasantía en **MAXAM FANEXA** y desarrollo sistemas full stack como freelance para negocios locales
 - Me muevo entre el desarrollo web (React, Node.js, PostgreSQL) y el análisis de datos (Python, SQL, Power BI)
-- Completé el curso **CCNA: Introducción a las Redes** de Cisco Networking Academy y tengo más de 1.500 horas de formación certificada en desarrollo, datos e IA
+- Completé el curso **CCNA: Introducción a las Redes** de Cisco Networking Academy y tengo más de 1500 horas de formación certificada en desarrollo, datos e IA
 
 ### Stack
 
