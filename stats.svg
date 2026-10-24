@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-labelledby="title desc">
+  <title id="title">Estadísticas de GitHub</title>
+  <desc id="desc">Commits en 2026: 508, Pull requests: 117, Issues: 0, Repos con aportes: 1, Estrellas: 0</desc>
+  <style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f4f5f6; }
+  .title { font-size: 17px; font-weight: 600; fill: #7c86ff; }
+  .label { font-size: 14px; fill: #8a8f98; }
+  .value { font-size: 14px; font-weight: 600; }
+  .small { font-size: 12px; fill: #8a8f98; }
+  .fade { opacity: 0; animation: fade 0.6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+
+  .rank { font-size: 26px; font-weight: 700; fill: #f4f5f6; }
+  .ring { animation: ring 1s ease-out forwards 0.3s; }
+  @keyframes ring { to { stroke-dashoffset: var(--progress); } }
+</style>
+  <rect x="0.5" y="0.5" width="466" height="194" rx="10" fill="#101113" stroke="#25272c"/>
+  <text x="25" y="35" class="title">Estadísticas de GitHub</text>
+  <g class="fade" style="animation-delay: 0ms">
+    <circle cx="29" cy="67" r="3.5" fill="#4cc9f0"/>
+    <text x="41" y="72" class="label">Commits en 2026</text>
+    <text x="230" y="72" class="value">508</text>
+  </g><g class="fade" style="animation-delay: 120ms">
+    <circle cx="29" cy="92" r="3.5" fill="#4cc9f0"/>
+    <text x="41" y="97" class="label">Pull requests</text>
+    <text x="230" y="97" class="value">117</text>
+  </g><g class="fade" style="animation-delay: 240ms">
+    <circle cx="29" cy="117" r="3.5" fill="#4cc9f0"/>
+    <text x="41" y="122" class="label">Issues</text>
+    <text x="230" y="122" class="value">0</text>
+  </g><g class="fade" style="animation-delay: 360ms">
+    <circle cx="29" cy="142" r="3.5" fill="#4cc9f0"/>
+    <text x="41" y="147" class="label">Repos con aportes</text>
+    <text x="230" y="147" class="value">1</text>
+  </g><g class="fade" style="animation-delay: 480ms">
+    <circle cx="29" cy="167" r="3.5" fill="#4cc9f0"/>
+    <text x="41" y="172" class="label">Estrellas</text>
+    <text x="230" y="172" class="value">0</text>
+  </g><g transform="rotate(-90 375 108)">
+    <circle cx="375" cy="108" r="40" fill="none" stroke="#25272c" stroke-width="6"/>
+    <circle cx="375" cy="108" r="40" fill="none" stroke="#7c86ff" stroke-width="6" stroke-linecap="round"
+      stroke-dasharray="251.33" stroke-dashoffset="251.33" class="ring" style="--progress: 102.80"/>
+  </g>
+  <text x="375" y="117" text-anchor="middle" class="rank">B</text>
+  <text x="375" y="172" text-anchor="middle" class="small">Top 59 %</text>
+</svg>
