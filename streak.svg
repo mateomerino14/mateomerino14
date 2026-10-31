@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="195" viewBox="0 0 830 195" role="img" aria-labelledby="title desc">
+  <title id="title">Racha de contribuciones</title>
+  <desc id="desc">Contribuciones totales: 1.783, Racha actual: 10, Racha más larga: 10</desc>
+  <style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f4f5f6; }
+  .title { font-size: 17px; font-weight: 600; fill: #7c86ff; }
+  .label { font-size: 14px; fill: #8a8f98; }
+  .value { font-size: 14px; font-weight: 600; }
+  .small { font-size: 12px; fill: #8a8f98; }
+  .fade { opacity: 0; animation: fade 0.6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+
+  .big { font-size: 30px; font-weight: 700; fill: #f4f5f6; }
+  .current { font-size: 30px; font-weight: 700; fill: #4cc9f0; }
+  .caption { font-size: 14px; font-weight: 600; fill: #f4f5f6; }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: 0.45; } }
+</style>
+  <rect x="0.5" y="0.5" width="829" height="194" rx="10" fill="#101113" stroke="#25272c"/>
+  <text x="25" y="35" class="title">Racha de contribuciones</text>
+  <line x1="285" y1="55" x2="285" y2="170" stroke="#25272c"/><line x1="545" y1="55" x2="545" y2="170" stroke="#25272c"/><circle cx="415" cy="90" r="33" fill="none" stroke="#7c86ff" stroke-width="5" class="pulse"/><g class="fade" style="animation-delay: 0ms">
+    <text x="155" y="101" text-anchor="middle" class="big">1.783</text>
+    <text x="155" y="145" text-anchor="middle" class="caption">Contribuciones totales</text>
+    <text x="155" y="168" text-anchor="middle" class="small">Desde 11 feb 2026</text>
+  </g><g class="fade" style="animation-delay: 180ms">
+    <text x="415" y="101" text-anchor="middle" class="current">10</text>
+    <text x="415" y="145" text-anchor="middle" class="caption">Racha actual</text>
+    <text x="415" y="168" text-anchor="middle" class="small">21 oct – 30 oct 2026</text>
+  </g><g class="fade" style="animation-delay: 360ms">
+    <text x="675" y="101" text-anchor="middle" class="big">10</text>
+    <text x="675" y="145" text-anchor="middle" class="caption">Racha más larga</text>
+    <text x="675" y="168" text-anchor="middle" class="small">21 oct – 30 oct 2026</text>
+  </g>
+</svg>
