@@ -16,7 +16,7 @@ Construyo aplicaciones web y convierto datos en decisiones.
 
 <p align="center">
   <a href="https://mateomerino14.github.io/PORTAFOLIO/#stack">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,r,html,css,react,astro,angular,tailwind,electron,qt,nodejs,express,nestjs,postgres,supabase,firebase,mysql,sqlite,mongodb,git,githubactions,docker,vitest,postman,figma,threejs,blender&theme=dark&perline=9" alt="Lenguajes y herramientas"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,rust,c,cpp,cs,r,html,css,react,vue,astro,angular,tailwind,electron,tauri,qt,nodejs,express,nestjs,postgres,supabase,firebase,mysql,sqlite,mongodb,sklearn,git,githubactions,docker,ansible,linux,vitest,postman,figma,threejs,blender,godot&theme=dark&perline=9" alt="Lenguajes y herramientas"/>
   </a>
 </p>
 
@@ -54,10 +54,38 @@ Construyo aplicaciones web y convierto datos en decisiones.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <strong><a href="https://github.com/mateomerino14/OBSERVATORIO-PRECIOS-CBBA">Observatorio de Precios CBBA</a></strong><br/>
+      <sub>Proyecto propio · <a href="https://mateomerino14.github.io/OBSERVATORIO-PRECIOS-CBBA/">Sitio en vivo</a></sub><br/><br/>
+      Recolecta cada día los precios de Hipermaxi y los cruza con los mercados y el dólar para ver cuánto cuesta comer en Cochabamba.<br/><br/>
+      <code>Python</code> <code>Supabase</code> <code>scikit-learn</code> <code>React</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/mateomerino14/socavon">Socavón y Espejo</a></strong><br/>
+      <sub>Proyecto propio · Videojuegos</sub><br/><br/>
+      Dos juegos de terror en primera persona en el Cerro Rico de Potosí y el salar de Uyuni, con versión para Windows en <a href="https://github.com/mateomerino14/socavon/releases">Releases</a>.<br/><br/>
+      <code>Godot</code> <code>Blender</code> <code>Python</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <strong>Sistema de Control de Viáticos</strong><br/>
       <sub>Pasantía · MAXAM FANEXA</sub><br/><br/>
       Viajes corporativos y rendición de gastos por rol, con extracción de comprobantes por IA y reportes en PDF y Excel.<br/><br/>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>Gemini</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Sistema Farmacia</strong><br/>
+      <sub>Proyecto propio · Versión 1.0</sub><br/><br/>
+      Escritorio para farmacias: inventario por lotes con vencimiento, compras, ventas con receta, reportes y respaldos.<br/><br/>
+      <code>Tauri</code> <code>Rust</code> <code>Vue</code> <code>SQLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Brasa Brava</strong><br/>
+      <sub>Cliente freelance · En curso</sub><br/><br/>
+      Caja, cocina, catálogo, stock, mesas y promociones. El mismo código corre en la web y como app de escritorio.<br/><br/>
+      <code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Vitest</code>
     </td>
     <td width="50%" valign="top">
       <strong>Sistema Cafebar</strong><br/>
@@ -68,10 +96,10 @@ Construyo aplicaciones web y convierto datos en decisiones.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Brasa Brava</strong><br/>
-      <sub>Cliente freelance · En curso</sub><br/><br/>
-      Caja, cocina, catálogo, stock, mesas y promociones. El mismo código corre en la web y como app de escritorio.<br/><br/>
-      <code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Vitest</code>
+      <strong><a href="https://github.com/mateomerino14/MAISON-BRUMAIRE">Maison Brumaire</a></strong><br/>
+      <sub>Proyecto propio · <a href="https://mateomerino14.github.io/MAISON-BRUMAIRE/">Sitio en vivo</a></sub><br/><br/>
+      Tienda ficticia de tés contada con una escena 3D que avanza con el scroll.<br/><br/>
+      <code>React</code> <code>Three.js</code> <code>Blender</code>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/ProcesosAgilesUMSS/sansistore">SansiStore</a></strong><br/>
