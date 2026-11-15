@@ -60,9 +60,9 @@ Construyo aplicaciones web y convierto datos en decisiones.
       <code>Python</code> <code>Supabase</code> <code>scikit-learn</code> <code>React</code>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/mateomerino14/socavon">Socavón y Espejo</a></strong><br/>
+      <strong><a href="https://github.com/mateomerino14/socavon">Socavón</a> y <a href="https://github.com/mateomerino14/espejo">Espejo</a></strong><br/>
       <sub>Proyecto propio · Videojuegos</sub><br/><br/>
-      Dos juegos de terror en primera persona en el Cerro Rico de Potosí y el salar de Uyuni, con versión para Windows en <a href="https://github.com/mateomerino14/socavon/releases">Releases</a>.<br/><br/>
+      Dos juegos de terror en primera persona en el Cerro Rico de Potosí y el salar de Uyuni, con versión para Windows en Releases (<a href="https://github.com/mateomerino14/socavon/releases">Socavón</a> · <a href="https://github.com/mateomerino14/espejo/releases">Espejo</a>).<br/><br/>
       <code>Godot</code> <code>Blender</code> <code>Python</code>
     </td>
   </tr>
